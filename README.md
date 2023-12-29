@@ -19,5 +19,6 @@ I have created a `ProgressTracker.md` to keep track of the problems I have solve
 ```markdown
 | #   | Title                                      | Solution Link | Difficulty | Status    | Date Completed |
 |-----|--------------------------------------------|---------------|------------|-----------|----------------|
-| 1   | Problem Name                               | [Link]()      | Easy/Medium/Hard | Not Started/In Progress/Completed | YYYY-MM-DD     |
+| 1   | Set Matrix Zeroes                          | [Link]()      | Medium     | Completed | 2023-12-29 |
 | ... | ...                                        | ...           | ...        | ...       | ...            |
+```
